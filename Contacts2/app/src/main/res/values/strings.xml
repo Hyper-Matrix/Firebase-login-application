@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="loading_please_wait">Loading...please wait...</string>
+    <string name="login">Login</string>
+    <string name="registe">REGISTER</string>
+    <string name="forgot_password_tap_here">Forgot password? Tap here!</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="image">image</string>
+    <string name="name">Name</string>
+    <string name="emailo">Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="register">REGISTER</string>
+</resources>

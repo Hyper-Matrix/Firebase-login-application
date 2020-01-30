@@ -1,0 +1,4 @@
+#Thu Aug 22 00:45:12 IST 2019
+base.0=C\:\\Users\\dell\\AndroidStudioProjects\\ZAIRZA2\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

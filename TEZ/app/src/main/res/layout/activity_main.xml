@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linerlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/ic_launcher"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:fontFamily="casual"
+            android:padding="20dp"
+            android:text="@string/whats_life_without_you_hmm_tejaswini_aka_tez_i_would_say_its_incomplete_you_are_now_basically_a_part_of_me_you_complete_me_so_here_is_something_i_have_for_you_below_are_3_buttons_each_of_which_has_a_special_message_for_you_each_button_along_with_the_message_has_a_task_which_you_have_to_complete_and_i_expect_you_to_do_love_you_must_select_the_buttons_sequence_wise_else_yeah_you_will_mess_up_with_the_tasks_trust_me_you_will_love_it" />
+
+        <Button
+        android:id="@+id/bt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:padding="20dp"
+        android:text="@string/it_all_begins_here_am_button_1" />
+
+        <Button
+            android:id="@+id/bt3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:padding="20dp"
+            android:text="@string/am_button_2_dear_please_tap_button_1_then_touch_me" />
+
+        <Button
+            android:id="@+id/bt4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:padding="20dp"
+            android:text="@string/i_know_am_sexy_still_button_1_and_2_are_important_am_after_them_am_button_3" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/c"
+    android:orientation="vertical"
+    tools:context=".Tez3">
+
+    <TextView
+        android:id="@+id/tv5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:fontFamily="casual"
+        android:padding="10dp"
+        android:text="@string/so_here_you_are_stalked_him_right_great_so_how_much_do_i_love_you_hmm_the_answer_to_this_question_lies_in_the_statement_i_love_you_3000_you_know_how_much_this_line_means_to_me_and_how_much_i_love_you_for_me_you_are_the_most_beautiful_person_mere_saare_dukh_dard_door_hojate_hain_aapke_saath_baat_karke_aap_ki_khoobsurati_itni_hai_ki_chaand_aapko_dekhke_sharma_jaye_aag_aapko_dekhke_khud_se_hi_jaal_jaye_now_whatever_you_feel_for_me_now_presently_anything_just_click_the_button_below_and_send_me_your_feelings" />
+
+    <Button
+        android:id="@+id/bt5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:padding="20dp"
+        android:text="@string/send_message" />
+</LinearLayout>

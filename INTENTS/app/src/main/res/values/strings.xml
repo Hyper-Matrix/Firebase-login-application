@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">INTENTS</string>
+    <string name="hello_there_intent_trial">HELLO THERE INTENT TRIAL</string>
+    <string name="page_1">PAGE 1</string>
+    <string name="page_2">PAGE 2</string>
+    <string name="mew_just_mew">MEW JUST MEW</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="back">BACK</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/d"
+    android:orientation="vertical"
+    tools:context=".Tez4">
+
+    <TextView
+        android:id="@+id/tv9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:fontFamily="casual"
+        android:padding="10dp"
+        android:text="@string/so_i_really_loved_your_message_so_we_are_in_the_final_stage_nothing_much_to_say_i_already_said_it_my_feelings_are_damn_inexpressible_you_are_my_best_friend_my_soulmate_my_companion_my_gf_you_are_a_part_of_me_now_i_love_you_dear_if_i_am_a_body_you_are_my_soul_humesha_mere_saath_rehena_and_i_remember_one_thing_am_always_with_you_and_yes_another_thing_i_am_probably_the_1st_bf_in_this_world_to_make_an_app_for_his_gf_i_love_you_3000_so_your_final_task_tap_the_button_below_call_him_and_say_how_do_you_feel_now"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/bt9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:padding="20dp"
+        android:text="@string/call" />
+</LinearLayout>

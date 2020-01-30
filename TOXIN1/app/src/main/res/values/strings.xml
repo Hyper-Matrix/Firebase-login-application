@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BFF</string>
+    <string name="REG_NAME_1">ENTER REGISTRATION NUMBER</string>
+    <string name="submit_1">SUBMIT</string>
+    <string name="textview_1">TextView</string>
+    <string name="final_ans" />
+    <string name="r1">6120</string>
+    <string name="n1">ASHISH KUMAR PANDA COMPETITION</string>
+    <string name="r2">6192</string>
+    <string name="n2">DEBADITYA MOHANTY BADBOLA</string>
+    <string name="r3">6615</string>
+    <string name="n3">Trideep MC</string>
+    <string name="r4">6429</string>
+    <string name="n4">Sambit-CR ku kn khba</string>
+    <string name="r5">6091</string>
+    <string name="n5">AGASTI AND SD CHALICHI NAI</string>
+    <string name="r6">6077</string>
+    <string name="n6">ANISHA MY ASS</string>
+    <string name="r7">6417</string>
+    <string name="n7">saheen jasmine,chalichi nai</string>
+    <string name="r8">6237</string>
+    <string name="n8">hari--HAR HAR MAHADEV</string>
+
+</resources>

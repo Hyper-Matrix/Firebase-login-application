@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BUILDING VIEWER</string>
+    <string name="INTRO">HELLO USER!!! CHOOSE PRESENT LOCATION AND DESTINATION BELOW</string>
+    <string name="FROM">WHERE DO YOU WANT TO TRAVEL FROM</string>
+    <string name="TO">WHERE DO YOU WANT TO TRAVEL</string>
+    <string name="navigate">NAVIGATE</string>
+    <string name="RESULT">TextView</string>
+</resources>
